@@ -1,0 +1,35 @@
+{
+    "personas": [
+      {
+        "nombre": "Ludovico Peluche",
+        "Edad": 45,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla"
+      },
+      {
+        "nombre": "Junior Peluche",
+        "Edad": 37,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla"
+      },
+      {
+        "nombre": "Federica Peluche",
+        "Edad": 43,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla"
+      },
+      {
+        "nombre": "Ludoviquito Peluche",
+        "Edad": 20,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla"
+      },
+      {
+        "nombre": "Bibi Peluche",
+        "Edad": 26,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla"
+      }
+    ]
+
+}
