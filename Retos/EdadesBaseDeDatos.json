@@ -1,0 +1,46 @@
+{
+    "personas":[
+      {
+        "Id": 1234,
+        "nombre": "Ludovico Peluche",
+        "Edad": 45,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla",
+        "RFC": "LUDPEC091189PUEME3"
+      },
+      {
+        "Id": 4567,
+        "nombre": "Junior Peluche",
+        "Edad": 37,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla",
+        "RFC": "JUNPEC100993PUEMA2"
+
+      },
+      {
+        "Id": 8910,
+        "nombre": "Federica Peluche",
+        "Edad": 43,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla",
+        "RFC": "FEDPEC120988PUEMF5"
+      },
+      {
+        "Id": 1112,
+        "nombre": "Ludoviquito Peluche",
+        "Edad": 20,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla",
+        "RFC": "LUDPEC191101PUEMH2"
+      },
+      {
+        "Id": 1314,
+        "nombre": "Bibi Peluche",
+        "Edad": 26,
+        "Ciudad": "San Martin Texmelucan",
+        "Estado": "Puebla",
+        "RFC": "BIBPEC040102PUEMO3"
+      }
+    ]
+
+}
