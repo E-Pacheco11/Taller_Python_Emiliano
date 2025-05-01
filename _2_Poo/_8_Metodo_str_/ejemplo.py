@@ -1,0 +1,24 @@
+class DatosPersonales:
+    def __init__(self,nombre,apellido, edad):
+        self.nombre = nombre
+        self.apellido = apellido
+        self.edad = edad
+
+    def getnmombre(self):
+        return self.nombre
+
+    def getapellido(self):
+        return self.apellido
+
+    def getedad(self):
+        return self.edad
+
+    def corto(self):
+        return self.nombre+""+ self.apellido+""+self.edad
+    def __str__(self):
+        return self.nombre + "" + self.apellido + "" + self.edad
+
+if __name__ == '__main__':
+    datos = DatosPersonales(" Hector "," Palacios "," 23 ")
+    #print(datos.corto())
+    print(datos)
